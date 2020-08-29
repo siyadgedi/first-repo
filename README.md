@@ -1,1 +1,1 @@
-# gedis-repo
+# demo-repo
